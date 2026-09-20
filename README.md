@@ -208,4 +208,3 @@ Possible future improvements include:
 
 **Ritesh Raj**
 
-SQL & Data Science Learner
